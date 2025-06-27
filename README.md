@@ -1,7 +1,7 @@
 # Olá! Eu sou Pablo Henrique Farias
 
 Sou um desenvolvedor web em formação, apaixonado por tecnologia e em constante evolução.  
-Atualmente estou focado no desenvolvimento Front-End com Angular e construindo meu conhecimento para atuar como Dev Júnior.
+Atualmente estou focado no desenvolvimento Front-End e construindo meu conhecimento para atuar como Dev Júnior.
 
 ---
 
@@ -12,7 +12,7 @@ Atualmente estou focado no desenvolvimento Front-End com Angular e construindo m
 - **Cursos:**  
   - Desenvolvimento Web (concluído)  
   - Front-End Jr (SoloLearn, 2024-2025)  
-  - Estudando Angular  
+  - Curso HTML-CSS do Gustavo Guanabara  
 - **Inglês:** A2 (básico/intermediário)  
 - **Contato:**  
   - **Email:** pablohf765@gmail.com  
@@ -21,9 +21,7 @@ Atualmente estou focado no desenvolvimento Front-End com Angular e construindo m
 
 ## O que estou aprendendo atualmente
 
-- Angular
-- JavaScript (avançado)
-- TypeScript
+- JavaScript (basico)
 - HTML5 e CSS3
 - Git e GitHub
 
